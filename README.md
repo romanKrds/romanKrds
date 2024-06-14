@@ -34,6 +34,16 @@ I'm a passionate Web developer with a master's in engineering. I have been worki
   </a>
 </p>
 
+## 🚀 Latest projects
+
+Algoria - is an adventure game where the player needs to solve puzzles and complete tasks using different data structures and algorithms. 
+
+<p align="center">
+    <img src="./projects/algoria_logo.png" alt="algoria quest logo" width="400"/>
+</p>
+
+Repo: https://github.com/romanKrds/quest_algoria
+
 ## 🚀 Learning and Growth
 
 - Completed the IBM [AI Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/9FVADF3E3G6H)
