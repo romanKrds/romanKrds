@@ -36,13 +36,16 @@ I'm a passionate Web developer with a master's in engineering. I have been worki
 
 ## 🚀 Latest projects
 
-Algoria - is an adventure game where the player needs to solve puzzles and complete tasks using different data structures and algorithms. 
+Algoria is an adventure game where players solve puzzles and complete challenges using various data structures and
+algorithms. This is an open-source project. Feel free to watch the repo, to not miss the time when it become ready to receive the first PRs. I'm
+currently working on making it more developer-friendly, more on that [here](https://github.com/chm-org/algoria-app?tab=readme-ov-file#is-it-opened-for-contribution-right-now). Who knows,
+maybe your next coding challenge will turn into a PR! 😉
 
 <p align="center">
     <img src="./projects/algoria_logo.png" alt="algoria quest logo" width="400"/>
 </p>
 
-Repo: https://github.com/romanKrds/quest_algoria
+Repo: https://github.com/chm-org/algoria-app
 
 ## 🚀 Learning and Growth
 
